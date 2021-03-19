@@ -12,7 +12,7 @@ django-allauth==0.36.0
 django-rest-auth==0.9.3
 django-rest-swagger==2.0.7
 django-storages==1.7.1
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 docutils==0.14
 idna==2.7
 isort==4.3.4
